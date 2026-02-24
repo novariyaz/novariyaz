@@ -60,4 +60,9 @@ AI-powered smart notes inspired by Google's NotebookLM (Cogniite X)
 
 ⭐ From novariyaz
 
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/novariyaz/novariyaz/output/github-contribution-grid-snake.svg" />
+</p>
 </div>

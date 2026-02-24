@@ -25,12 +25,21 @@
 + ⚡ Philosophy: Learn → Build → Ship → Repeat
 ```
 
-🛠️ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,kotlin,flutter,git,github,vscode" /> </p>
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,kotlin,flutter,git,github,vscode,uipath" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stitch-AI-blueviolet?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
 🚀 Flagship Projects
 🧠 Cognite-X
 
-AI-powered smart notes inspired by NotebookLM
+AI-powered smart notes inspired by Google's NotebookLM (Cogniite X)
 🔗 https://github.com/novariyaz/Cognite-X
 
 📊 GitHub Intelligence
@@ -44,8 +53,9 @@ AI-powered smart notes inspired by NotebookLM
 🤝 Connect With Me
 <p align="center"> <a href="mailto:novariyaz27@gmail.com"> <img src="https://img.shields.io/badge/Email-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/syed-riyaz-ahamed-53aa22314"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 <div align="center">
+  
 ⚡ "Consistency beats intensity."
 
 ⭐ From novariyaz
 
-</div> ```
+</div>

@@ -46,8 +46,10 @@ AI-powered smart notes inspired by Google's NotebookLM (Cogniite X)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=novariyaz&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=novariyaz&theme=tokyonight&hide_border=true" height="165"/> </p>
 🧩 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=novariyaz&theme=tokyo-night&hide_border=true" /> </p>
-🏆 Trophy Case
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=novariyaz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" /> </p>
+## 🏆 Trophy Case
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=novariyaz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+</p>
 👀 Visitor Counter
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=novariyaz&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> </p>
 🤝 Connect With Me

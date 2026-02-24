@@ -23,6 +23,7 @@
 + 🧠 Building Cognite-X (AI Notes App)
 + 🎯 Mission: Become Elite Software Engineer
 + ⚡ Philosophy: Learn → Build → Ship → Repeat
+```
 
 🛠️ Tech Arsenal
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,kotlin,flutter,git,github,vscode" /> </p>
